@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting my website!
 
-Template Name: Knight
-Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Just playing around. Learning how to host my own gaming website on GitHub. lmeow
+
+Not much, just testing.
